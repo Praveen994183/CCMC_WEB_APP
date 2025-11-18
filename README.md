@@ -1,5 +1,5 @@
 
-  # Streamlit OpenLayers Application
+  # CCMC_WEB_APP
 
   This is a code bundle for Streamlit OpenLayers Application. The original project is available at https://www.figma.com/design/loUtqnaYb9Jq7bUl3lhv78/Streamlit-OpenLayers-Application.
 
